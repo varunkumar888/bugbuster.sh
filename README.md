@@ -1,2 +1,2 @@
-# bugbuster.sh
+# BugBuster
 Custom Bug Bounty Scanner
